@@ -1,0 +1,17 @@
+/* Write your code here. */
+.emoji-button {
+  border: none;
+  border-radius: 10px;
+  width: 170px;
+  height: 170px;
+  margin: 5px;
+  background-color: #ffffff33;
+  outline: none;
+  cursor: pointer;
+  border: 1px solid #ffffff30;
+}
+
+.emoji-image {
+  height: 100px;
+  width: 100px;
+}

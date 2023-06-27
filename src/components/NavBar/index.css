@@ -1,0 +1,39 @@
+/* Write your code here. */
+.bg-nav {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.logo {
+  height: 40px;
+  width: 40px;
+}
+
+.logo-name-container {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+
+.score-top-score-nav-container {
+  margin-right: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.emoji-game-para {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-right: 15px;
+}
+
+.hide-nav-element {
+  display: none;
+}
+
+.show-nav-element {
+  display: block;
+}

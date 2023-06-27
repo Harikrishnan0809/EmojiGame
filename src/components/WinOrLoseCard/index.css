@@ -1,0 +1,62 @@
+/* Write your code here. */
+.win-loss-bg-card {
+  width: 50%;
+  height: 50%;
+  background-color: #ffffff33;
+  border-radius: 20px;
+  border: solid 1px #ffffff30;
+  margin-top: 40px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.you-lose-heading {
+  font-size: 60px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.score-heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-bottom: 0px;
+}
+
+.num-heading {
+  font-size: 40px;
+  font-weight: bold;
+  color: #6a59ff;
+  font-family: 'Roboto';
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.play-again-button {
+  background-color: #ffce27;
+  color: #3d3d3d;
+  font-weight: bold;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  outline: none;
+  cursor: pointer;
+  font-size: 15px;
+  margin-top: 10px;
+  height: 40px;
+  width: 130px;
+}
+
+.result-container {
+  text-align: center;
+}
+
+.result-image {
+  height: 400px;
+  width: 300px;
+}
